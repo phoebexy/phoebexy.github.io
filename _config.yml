@@ -21,7 +21,7 @@ description: on being present
 # List of links in the navigation bar
 navbar-links:
   home: "index"
-  thinking: "blog"
+  writings: "writings"
   music: "music"
 
 # Image to show in the navigation bar - image must be a square (width = height)
