@@ -248,9 +248,6 @@ footer {
   margin-top: 40px;
   font-size: 16px;
   background-color: white;
-  background-image: url({{ site.footer-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
 }
 
 footer p.text-muted {
