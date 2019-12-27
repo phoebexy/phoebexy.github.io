@@ -151,7 +151,8 @@ date_format: "%B %-d, %Y"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
-paginate_path: "/blog/page:num/"
+paginate_path: "/writings/page:num/"
+paginate_path: "/music/page:num/"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
