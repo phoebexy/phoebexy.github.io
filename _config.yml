@@ -120,7 +120,7 @@ gtm: "UA-155058123-1"
 #just-comments: "ABCD-EFGH-IJKL"
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+fb_comment_id: "459005735046718"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
