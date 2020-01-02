@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The law of interesting things
-subtitle: Ovecoming existential burn out in 2020
+subtitle: Overcoming existential burn out in 2020
 tags: [philosophy, meta-heuristics]
 ---
 
