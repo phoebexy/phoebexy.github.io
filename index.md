@@ -40,3 +40,7 @@ Maintaining good vibes from healthy consumption. Here are my favorites.
 ### Doings
 - Walking meditation at [Deer Park Monastery](https://deerparkmonastery.org/)
 - Good food is the new love language
+
+# Meet
+
+Find a warm intro or find me on [superpeer](https://superpeer.com/phoebe).
