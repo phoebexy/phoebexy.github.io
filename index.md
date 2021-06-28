@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about me
-subtitle: founder
+subtitle: chinese-american immigrant founder building for the diamond age
 ---
 
 #### last updated 6/25/21
