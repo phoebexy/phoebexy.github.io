@@ -6,7 +6,7 @@ subtitle: building for the diamond age
 
 #### last updated 6/25/21
 
-*Oh happy fall that was the occasion for sublime a redemption.*
+*Oh happy fall that was the occasion for so sublime a redemption.*
 
 # Who
 
